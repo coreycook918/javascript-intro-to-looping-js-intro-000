@@ -7,5 +7,5 @@ function forLoop(loops) {
   } else {
       console.log("I am ${i} strange loops.")
   }
-  return loops
 }
+forLoop(loops)
