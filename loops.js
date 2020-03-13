@@ -1,11 +1,11 @@
 let loops = ["I am 1 strange loop.", "I am ${i} strange loops."]
 
-function forLoop(array) {
+function forLoop(loops) {
   for (let i = 0; i < 25; i++) {
     if (i = 0) {
       console.log("I am 1 strange loop.")
   } else {
       console.log("I am ${i} strange loops.")
   }
-  return gifts
+  return loops
 }
