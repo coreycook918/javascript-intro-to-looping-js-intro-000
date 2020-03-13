@@ -8,4 +8,3 @@ function forLoop(loops) {
       console.log("I am ${i} strange loops.")
   }
 }
-forLoop(loops)
